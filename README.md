@@ -1,0 +1,1 @@
+Graphically select two mouse positions on the screen to make the screen active. It will read the current screen resolution and then select the two positions where the mouse will click. The user can set the click period and also start and stop the mouse clicks
